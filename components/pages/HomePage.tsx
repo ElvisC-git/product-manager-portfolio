@@ -66,7 +66,7 @@ const HomePage = () => {
                 <br />
                 from <span className="font-rock-salt">concept</span> to
                 <br />
-                <span className="font-rock-salt">change.</span>
+                <span className="font-rock-salt">impace.</span>
               </p>
               <div className="flex items-center gap-3 mt-8 text-base text-[#0B172A]/80 font-share-tech-mono">
                 <MapPinIcon className="h-5 w-5 flex-shrink-0 text-indigo-600/70" />
